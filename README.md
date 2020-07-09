@@ -1,7 +1,7 @@
 # FRIDAY
 
 <p align="center">
-<img src="friday.png" alt="FRIDAY USERBOT">
+<img src="https://telegra.ph/file/43c70f2c43d83cb3d8522.jpg" alt="DRAKES USERBOT">
 
 
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
