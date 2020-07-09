@@ -10,7 +10,7 @@ from userbot.utils import admin_cmd
 
 PMPERMIT_PIC = os.environ.get("PMPERMIT_PIC", None)
 if PMPERMIT_PIC is None:
-  WARN_PIC = "https://telegra.ph/file/82c595986872349e5ba1a.jpg"
+  WARN_PIC = "https://telegra.ph/file/43c70f2c43d83cb3d8522.jpg"
 else:
   WARN_PIC = PMPERMIT_PIC
 
