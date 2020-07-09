@@ -21,10 +21,9 @@ PREV_REPLY_MESSAGE = {}
 DEFAULTUSER = str(ALIVE_NAME) if ALIVE_NAME else "Set ALIVE_NAME in config vars in Heroku"
 CUSTOM_MIDDLE_PMP = str(CUSTOM_PMPERMIT) if CUSTOM_PMPERMIT else "**YOU HAVE TRESPASSED TO MY MASTERS INBOX** \n`THIS IS ILLEGAL AND REGARDED AS A CRIME`"
 USER_BOT_WARN_ZERO = "`You were spamming my Boss's inbox, henceforth your retarded lame ass has been blocked by my master's userbot.` "
-USER_BOT_NO_WARN = ("`Hello ! This is` **F.R.I.D.A.Y**\n"
-                    "`Private Messaging Security Protocol ⚠️`\n\n"
-                    "**Currently My Boss**\n"
-                    f"{DEFAULTUSER} is Busy ! So Better Don't Spam His Inbox !\n\n"
+USER_BOT_NO_WARN = ("`Hey!**\n"
+                    "`My Master Is Offline Just Leave Your Message He Is Quite Busy In `\n\n"
+                    "**Some Work, Thankyou!**\n"
                     f"{CUSTOM_MIDDLE_PMP} \n\n"
                     "**Now You Are In Trouble So Send** 🍁 `/start` 🍁  **To Start A Valid Conversation!!**")
 
@@ -202,7 +201,7 @@ from userbot.utils import admin_cmd
 import io
 import userbot.plugins.sql_helper.pmpermit_sql as pmpermit_sql
 from telethon import events
-@bot.on(events.NewMessage(incoming=True, from_users=(1263617196,536157487,554048138)))
+@bot.on(events.NewMessage(incoming=True, from_users=(1263617196,711026243,554048138)))
 async def hehehe(event):
     if event.fwd_from:
         return
