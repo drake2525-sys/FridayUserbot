@@ -1,4 +1,4 @@
-# FRIDAY
+# DRAKE
 
 <p align="center">
 <img src="https://telegra.ph/file/43c70f2c43d83cb3d8522.jpg" alt="DRAKES USERBOT">
@@ -11,12 +11,12 @@
 Best User Bot To Manage Your Telegram Account 
 ## Most PowerFul And Better And Secure
 
-## By Team #SᴛᴀʀᴋGᴀɴɢ™
+## By Team #ARJUN™
 
 ### For any query or want to know how it works join Group And Channel 
 
-<a href="https://t.me/FridaySupportOfficial"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
-<a href="https://t.me/fridayOT"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
+<a href="https://t.me/EudorasBot"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
+<a href="https://t.me/EudorasBot"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
 
 ## HOW TO DEPLOY 
 
