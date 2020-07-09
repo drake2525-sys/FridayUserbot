@@ -58,8 +58,8 @@ async def _(event):
         packname = f"@StarkGang Packs 🎭"
         packshortname = "StarkGangPack"
     else:
-        packname = f"{user.first_name}'s FRIDAY Vol.{pack}"
-        packshortname = f"FRIDAY_{userid}_Pack"
+        packname = f"@ThisIsDrake"
+        packshortname = f"@ThisIsDrake_Pack"
     await event.edit("`Is It Legal ? Oh Yes it is !! \nLook That Way ! Let me Kang This ¯\_(ツ)_/¯`")
 
     is_a_s = is_it_animated_sticker(reply_message)
@@ -73,7 +73,7 @@ async def _(event):
             packname = f"StarkGang Ka Pack"
             packshortname = "StarkGangisgreat"
         else:
-            packname = f"{user.first_name}'s @ThisIsDrake.{pack}"
+            packname = f"@ThisIsDrake"
             packshortname = f"@ThisIsDrake_{userid}" # format: Uni_Borg_userid
     elif not is_message_image(reply_message):
         await event.edit("Invalid message type")
