@@ -73,8 +73,8 @@ async def _(event):
             packname = f"StarkGang Ka Pack"
             packshortname = "StarkGangisgreat"
         else:
-            packname = f"{user.first_name}'s FRIDAY Animated Vol.{pack}"
-            packshortname = f"FRIDAY_{userid}" # format: Uni_Borg_userid
+            packname = f"{user.first_name}'s @ThisIsDrake.{pack}"
+            packshortname = f"@ThisIsDrake_{userid}" # format: Uni_Borg_userid
     elif not is_message_image(reply_message):
         await event.edit("Invalid message type")
         return
